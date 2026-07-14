@@ -1,0 +1,14 @@
+D:\New folder\cse212\week01\DynamicArraysDemo\obj\Debug\net10.0\DynamicArraysDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\cse212\week01\DynamicArraysDemo\obj\Debug\net10.0\DynamicArraysDemo.AssemblyInfoInputs.cache
+D:\New folder\cse212\week01\DynamicArraysDemo\obj\Debug\net10.0\DynamicArraysDemo.AssemblyInfo.cs
+D:\New folder\cse212\week01\DynamicArraysDemo\obj\Debug\net10.0\DynamicArraysDemo.csproj.CoreCompileInputs.cache
+D:\New folder\cse212\week01\DynamicArraysDemo\bin\Debug\net10.0\DynamicArraysDemo.exe
+D:\New folder\cse212\week01\DynamicArraysDemo\bin\Debug\net10.0\DynamicArraysDemo.deps.json
+D:\New folder\cse212\week01\DynamicArraysDemo\bin\Debug\net10.0\DynamicArraysDemo.runtimeconfig.json
+D:\New folder\cse212\week01\DynamicArraysDemo\bin\Debug\net10.0\DynamicArraysDemo.dll
+D:\New folder\cse212\week01\DynamicArraysDemo\bin\Debug\net10.0\DynamicArraysDemo.pdb
+D:\New folder\cse212\week01\DynamicArraysDemo\obj\Debug\net10.0\DynamicArraysDemo.dll
+D:\New folder\cse212\week01\DynamicArraysDemo\obj\Debug\net10.0\refint\DynamicArraysDemo.dll
+D:\New folder\cse212\week01\DynamicArraysDemo\obj\Debug\net10.0\DynamicArraysDemo.pdb
+D:\New folder\cse212\week01\DynamicArraysDemo\obj\Debug\net10.0\DynamicArraysDemo.genruntimeconfig.cache
+D:\New folder\cse212\week01\DynamicArraysDemo\obj\Debug\net10.0\ref\DynamicArraysDemo.dll
